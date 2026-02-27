@@ -5,7 +5,7 @@ layout: default
 <article class="work">
   <div class="work-hero">
     {% if page.image %}
-      <img class="work-img" src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}" />
+      <img class="work-img" src="{{ page.image | relative_url }}" alt="{{ page.title }}" />
     {% endif %}
   </div>
 
