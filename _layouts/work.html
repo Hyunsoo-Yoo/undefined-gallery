@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="work">
+  <div class="work-hero">
+    {% if page.image %}
+      <img class="work-img" src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}" />
+    {% endif %}
+  </div>
+
+  <h1 class="work-title">{{ page.title }}</h1>
+
+  <div class="work-meta">
+    {% if page.date %}<span>{{ page.date | date: "%Y.%m.%d" }}</span>{% endif %}
+    {% if page.series %}<span>· {{ page.series }}</span>{% endif %}
+    {% if page.tags %}<span>· {{ page.tags | join: ", " }}</span>{% endif %}
+  </div>
+
+  <div class="work-text">
+    {{ content }}
+  </div>
+
+  <div class="work-back">
+    <a href="{{ site.baseurl }}/works/">← Back to Works</a>
+  </div>
+</article>

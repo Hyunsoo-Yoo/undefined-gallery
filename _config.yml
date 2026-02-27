@@ -1,0 +1,18 @@
+title: "Undefined Gallery"
+description: "Exhibitions of metaphor — images and notes."
+url: ""              # GitHub Pages가 알아서 처리하게 비워둠
+baseurl: "/undefined-gallery"  # repo 이름이 undefined-gallery면 이렇게
+
+markdown: kramdown
+
+collections:
+  works:
+    output: true
+    permalink: /works/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: works
+    values:
+      layout: work
