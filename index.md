@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="hero">
-  <img src="{{ '/assets/images/works/undefined-01.png' | relative_url }}">
+  <img src="{{ '/assets/images/logo.png' | relative_url }}">
 </div>
 
 <h1 class="hero-text">
