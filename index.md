@@ -3,8 +3,15 @@ layout: default
 title: Home
 ---
 
-# Undefined Gallery
+<div class="hero">
+  <img src="{{ '/assets/images/works/undefined-01.png' | relative_url }}">
+</div>
 
-비유를 통해 생각을 걸어두는 전시.
+<h1 class="hero-text">
+Undefined Gallery is not a place.  
+It is a hesitation before definition.
+</h1>
 
-<a class="btn" href="{{ '/works/' | relative_url }}">Enter Exhibition →</a>
+<a class="btn" href="{{ '/works/' | relative_url }}">
+Enter Exhibition →
+</a>
