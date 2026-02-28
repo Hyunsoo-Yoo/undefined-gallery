@@ -141,7 +141,7 @@ header .logo img{
 
 @keyframes breathe{
   0%, 100% { transform: translateY(0); opacity: 0.98; }
-  50%      { transform: translateY(-4px); opacity: 1; }
+  50%      { transform: translateY(-8px); opacity: 0.1; }
 }
 
 /* 한 줄 문장: 더 얇고 고급스럽게 */
