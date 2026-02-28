@@ -9,7 +9,7 @@ title: Home
     <p class="home-hero-tagline">
       Undefined Gallery is not a place. It is a hesitation before definition.
     </p>
-    <a class="home-hero-btn" href="/works/">Enter Exhibition</a>
+    <a class="home-hero-btn" href="{{ '/works/' | relative_url }}">Enter Exhibition</a>
   </div>
 
   <div class="scroll-hint">SCROLL</div>
