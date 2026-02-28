@@ -7,7 +7,7 @@ permalink: /works/
 # Works
 
 <div class="grid">
-  {% assign sorted_works = site.works | sort: "order" %}
+  {% assign sorted_works = site.works | sort: "order" | reverse %}
   {% for work in sorted_works %}
     <a class="card" href="{{ work.url | relative_url }}">
       <div class="thumb">
