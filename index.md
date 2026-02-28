@@ -12,5 +12,4 @@ title: Home
     <a class="home-hero-btn" href="{{ '/works/' | relative_url }}">Enter Exhibition</a>
   </div>
 
-  <div class="scroll-hint">SCROLL</div>
 </section>

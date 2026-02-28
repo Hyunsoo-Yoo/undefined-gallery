@@ -176,16 +176,6 @@ header .logo img{
   opacity: 1;
 }
 
-/* 아래로 스크롤 유도 (선택) */
-.scroll-hint{
-  position:absolute;
-  bottom: 18px;
-  left:50%;
-  transform: translateX(-50%);
-  font-size: 12px;
-  letter-spacing: 0.18em;
-  opacity: 0.45;
-}
 
 /* ===== HEADER UPGRADE ===== */
 .header{
