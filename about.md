@@ -80,5 +80,9 @@ send me a DM.
 
 I look forward to connecting.
 
-- Instagram: (링크)
-- Threads: (링크)
+---
+
+### Connect
+
+Instagram → https://instagram.com/iwantnull  
+Threads → https://threads.net/@iwantnull
