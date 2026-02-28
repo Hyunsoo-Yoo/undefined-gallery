@@ -2,7 +2,7 @@
 title: "Mona Lisa"
 image: /assets/images/works/monalisa.png
 designer: "Leo"
-date: "2025.12"
+work_date: "2025.12"
 ---
 
 르네상스가 신 중심 사회에서 인간 중심 사회의 변화를 뜻한다면,
