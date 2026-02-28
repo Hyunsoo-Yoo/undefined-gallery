@@ -5,7 +5,7 @@ title: Home
 
 <section class="home-hero">
   <div class="home-hero-inner">
-    <img class="home-hero-logo" src="{{ '/assets/images/logo_big.png' | relative_url }}" alt="Undefined Gallery">
+    <img class="home-hero-logo" src="{{ '/assets/images/logo.png' | relative_url }}" alt="Undefined Gallery">
     <p class="home-hero-tagline">
       Undefined Gallery is not a place. It is a hesitation before definition.
     </p>
