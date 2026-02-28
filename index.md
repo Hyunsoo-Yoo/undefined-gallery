@@ -3,15 +3,14 @@ layout: default
 title: Home
 ---
 
-<div class="hero">
-  <img src="{{ '/assets/images/logo.png' | relative_url }}">
-</div>
+<section class="home-hero">
+  <div class="home-hero-inner">
+    <img class="home-hero-logo" src="/assets/images/logo.png" alt="Undefined Gallery">
+    <p class="home-hero-tagline">
+      Undefined Gallery is not a place. It is a hesitation before definition.
+    </p>
+    <a class="home-hero-btn" href="/works/">Enter Exhibition</a>
+  </div>
 
-<h1 class="hero-text">
-Undefined Gallery is not a place.  
-It is a hesitation before definition.
-</h1>
-
-<a class="btn" href="{{ '/works/' | relative_url }}">
-Enter Exhibition →
-</a>
+  <div class="scroll-hint">SCROLL</div>
+</section>
