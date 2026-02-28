@@ -96,6 +96,7 @@ a{color:inherit; text-decoration:none}
   margin-bottom:24px;
 }
 .logo img{
-  height: 28px;   /* 필요하면 24~34px 사이에서 조절 */
+  height: 22px;   /* 필요하면 24~34px 사이에서 조절 */
+  width: auto;
   display:block;
 }
