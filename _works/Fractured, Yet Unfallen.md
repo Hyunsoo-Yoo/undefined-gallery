@@ -1,7 +1,7 @@
 ---
-title: "Mona Lisa"
+title: "Fractured, Yet Unfallen"
 date: 2026-02-27
-image: /assets/images/works/monalisa.png
+image: /assets/images/works/9. Fractured, Yet Unfallen.png
 series: "Undefined"
 tags: [metaphor, note]
 ---

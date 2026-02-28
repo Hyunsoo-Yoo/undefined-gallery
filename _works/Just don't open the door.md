@@ -1,7 +1,7 @@
 ---
-title: "Mona Lisa"
+title: "Just don't open the door"
 date: 2026-02-27
-image: /assets/images/works/monalisa.png
+image: /assets/images/works/6. Just don't open the door.png
 series: "Undefined"
 tags: [metaphor, note]
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Mona Lisa"
+title: "Calm, without direction"
 date: 2026-02-27
-image: /assets/images/works/monalisa.png
+image: /assets/images/works/8. Calm, without direction.png
 series: "Undefined"
 tags: [metaphor, note]
 ---

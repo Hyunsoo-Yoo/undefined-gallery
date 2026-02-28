@@ -1,7 +1,7 @@
 ---
-title: "Mona Lisa"
+title: "Have a seat!"
 date: 2026-02-27
-image: /assets/images/works/monalisa.png
+image: /assets/images/works/5. Have a seat!.png
 series: "Undefined"
 tags: [metaphor, note]
 ---

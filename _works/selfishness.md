@@ -1,7 +1,7 @@
 ---
-title: "Mona Lisa"
+title: "Selfishness"
 date: 2026-02-27
-image: /assets/images/works/monalisa.png
+image: /assets/images/works/3. Selfishness.png
 series: "Undefined"
 tags: [metaphor, note]
 ---

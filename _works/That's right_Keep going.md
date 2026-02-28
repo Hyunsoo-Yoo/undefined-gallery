@@ -1,7 +1,7 @@
 ---
-title: "Mona Lisa"
+title: "That's right. Keep going."
 date: 2026-02-27
-image: /assets/images/works/monalisa.png
+image: /assets/images/works/7. That's right. Keep going.png
 series: "Undefined"
 tags: [metaphor, note]
 ---
