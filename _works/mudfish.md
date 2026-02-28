@@ -1,5 +1,5 @@
 ---
-title: "니어(泥魚)"
+title: "Mud Fish"
 date: 2026-02-27
 image: /assets/images/works/4. 니어.png
 series: "Undefined"
