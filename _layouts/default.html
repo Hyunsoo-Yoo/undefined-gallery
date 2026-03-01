@@ -14,8 +14,17 @@
     <meta property="og:url" content="{{ page.url | absolute_url }}">
 
     <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon.jpg' | relative_url }}">
-
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KG3QB2JBBB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-KG3QB2JBBB');
+    </script>
   </head>
   <body>
     <header class="header">
