@@ -1,6 +1,6 @@
 title: "Undefined Gallery"
 description: "Exhibitions of metaphor — images and notes."
-url: ""              # GitHub Pages가 알아서 처리하게 비워둠
+url: "https://iwantnull.com"
 baseurl: ""
 
 markdown: kramdown
